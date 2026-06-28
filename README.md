@@ -1,16 +1,74 @@
-# React + Vite
+# 💰 FinTrack -  Expense Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive Personal Finance Management Dashboard built with **React**, **Vite**, **Tailwind CSS**, **Framer Motion**, and **Context API**. FinTrack helps users manage income, expenses, budgets, financial goals, analytics, and reports through an intuitive dashboard.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* 📊 Interactive Dashboard
+* 💸 Income & Expense Tracking
+* 📈 Analytics & Charts
+* 🎯 Financial Goals
+* 📅 Calendar View
+* 💰 Budget Management
+* 📄 Monthly Reports
+* 📤 CSV Export
+* 📥 CSV Import
+* 🌙 Dark/Light Theme
+* 📱 Responsive UI
+* ⚡ Smooth Animations
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React.js
+* Vite
+* Tailwind CSS
+* Framer Motion
+* React Router DOM
+* Recharts
+* Lucide React
+* Context API
+* Date-fns
 
-## Expanding the ESLint configuration
+## 📦 Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+git clone https://github.com/Jayendra-pilla/fintrack-expense-tracker.git
+cd fintrack-expense-tracker
+npm install
+npm run dev
+```
+
+## 📂 Project Structure
+
+```
+src/
+├── assets/
+├── charts/
+├── components/
+├── context/
+├── data/
+├── hooks/
+├── pages/
+├── utils/
+├── App.jsx
+└── main.jsx
+```
+
+## 🔮 Future Enhancements
+
+* AI Expense Insights
+* User Authentication
+* Cloud Database
+* OCR Bill Scanner
+* Expense Prediction
+* Mobile App
+
+## 👨‍💻 Developer
+
+**Jayendra Pilla**
+
+* GitHub: https://github.com/Jayendra-pilla
+
+---
+
+⭐ If you found this project useful, please consider giving it a star on GitHub.
